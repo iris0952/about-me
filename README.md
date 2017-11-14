@@ -14,7 +14,7 @@
 
 - 使用過 Foundation 快速建立網頁
 
-- 瞭解 CSS3 的 flexbox、transform、transitione 功能
+- 瞭解 CSS3 的 flexbox、transform、transition 功能
 
 - 利用 Sass 來維護排版
 

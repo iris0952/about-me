@@ -1,5 +1,5 @@
 # 王郁雯（Iris Wang）
-- Education: 逢甲大學 國際貿易學系
+- Education: 成功大學 工程科學系
 - Location: 台南市
 - E-mail: iris0952@gmail.com
 - Mobile: 0987-019-658
